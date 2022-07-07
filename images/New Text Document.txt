@@ -1,0 +1,7 @@
+.overlay h1 span{
+    color: whitesmoke;
+    margin-right: 70px;
+    font-weight: bold ;
+    font-size: larger;
+}
+<textarea class="js">  Other amount ( taka)</textarea>
